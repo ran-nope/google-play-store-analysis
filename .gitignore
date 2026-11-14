@@ -1,0 +1,11 @@
+outputs/
+artifacts/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+googleplaystore_cleaned.csv
+googleplaystore_engineered.csv
+googleplaystore_pca.csv
+week*.png
+week*_report.txt
