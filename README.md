@@ -28,4 +28,4 @@ Scaling, imputation and PCA describe this full sample. A future predictive exper
 
 Source: [Google Play Store Apps by lava18](https://www.kaggle.com/datasets/lava18/google-play-store-apps). Dataset rights remain with their original licensors; the MIT license applies to original project code only.
 
-Planned repository rename: `DSV_PROJECT` → `google-play-store-analysis`.
+Repository renamed from `DSV_PROJECT` to `google-play-store-analysis`.
